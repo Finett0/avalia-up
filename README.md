@@ -10,5 +10,7 @@
 
 ## 🛠️ Tecnologias Utilizadas 
 
-- HTML5, CSS3 e JavaScript (Front-end)
+- Front end - Html,CSS e Javascript
+- Backend - Python e Flask
+- Infraestrutura - AWS 
 
