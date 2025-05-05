@@ -1,4 +1,4 @@
-# AvaliaUp - Plataforma de Feedback para instituição privada
+# AvaliaUp  Plataforma de Feedback para instituição privada
 
 **AvaliaUp** -  Temos como objetivo aprimorar a gestão e a metodologia de ensino em instituições privadas. Para isso, coletamos dados por meio de um formulário de sentimento, realizamos uma análise automatizada e geramos insights estratégicos, ajudando as instituições a tomarem decisões mais assertivas e eficientes.
 
